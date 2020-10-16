@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random User</string>
+
+    <string name="user_name">%1$s. %2$s %3$s</string>
+    <string name="user_gender"><b>Género:</b> %s</string>
+    <string name="user_age"><b>Edad:</b> %d</string>
+    <string name="user_birthday"><b>Fecha de nacimiento:</b> %s</string>
+    <string name="user_phone"><b>Teléfono:</b> %s</string>
+    <string name="user_email"><b>Email:</b> %s</string>
+    <string name="user_address"><b>Dirección:</b> %1$s #%2$d, %3$s, %4$s, %5$s</string>
+    <string name="user_username"><b>Usuario:</b> %s</string>
+    <string name="user_password">Contraseña: %s</string>
+
+    <string name="label_random_user">Generar usuario</string>
+    <string name="label_home">Inicio</string>
+    <string name="label_recent">Recientes</string>
+
+</resources>
